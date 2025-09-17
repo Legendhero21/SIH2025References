@@ -10,8 +10,7 @@ optimize task workflows and inform policy and service decisions.
 
 
 
-# [2] Title: A CROWDSOURCED COMPLAINT RESOLUTION SYSTEM USING GEOTAGGING AND
-SOCIAL MEDIA ENGAGEMENT
+# [2] Title: A CROWDSOURCED COMPLAINT RESOLUTION SYSTEM USING GEOTAGGING AND SOCIAL MEDIA ENGAGEMENT
 
 Summarized abstract: The paper introduces Civic Alerts, a Flutter‑based platform where
 citizens submit GPS‑tagged images of road issues, generating trackable tickets and

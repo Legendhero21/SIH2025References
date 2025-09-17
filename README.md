@@ -1,12 +1,12 @@
 
 1. Title: Modelling Civic Problem-Solving in Smart City Using Knowledge-Based Crowdsourcing 
 
-Summarized abstract: The paper proposes a hybrid human–machine crowdsourcing
-architecture and a five‑stage “Penta‑Process” to capture, refine, and validate citizen
-knowledge for complex civic problems, illustrated with a healthcare guideline use case in
-smart‑city settings. It defines layered components for sensing, task generation,
-recommendation, and aggregation to produce “democratic knowledge spaces” that
-optimize task workflows and inform policy and service decisions.
+    Summarized abstract: The paper proposes a hybrid human–machine crowdsourcing
+    architecture and a five‑stage “Penta‑Process” to capture, refine, and validate citizen
+    knowledge for complex civic problems, illustrated with a healthcare guideline use case in
+    smart‑city settings. It defines layered components for sensing, task generation,
+    recommendation, and aggregation to produce “democratic knowledge spaces” that
+    optimize task workflows and inform policy and service decisions.
 
 
 

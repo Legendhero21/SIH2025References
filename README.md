@@ -1,16 +1,16 @@
 
-1. Title: Modelling Civic Problem-Solving in Smart City Using Knowledge-Based Crowdsourcing 
+# 1. Title: Modelling Civic Problem-Solving in Smart City Using Knowledge-Based Crowdsourcing 
 
-    Summarized abstract: The paper proposes a hybrid human–machine crowdsourcing
-    architecture and a five‑stage “Penta‑Process” to capture, refine, and validate citizen
-    knowledge for complex civic problems, illustrated with a healthcare guideline use case in
-    smart‑city settings. It defines layered components for sensing, task generation,
-    recommendation, and aggregation to produce “democratic knowledge spaces” that
-    optimize task workflows and inform policy and service decisions.
+Summarized abstract: The paper proposes a hybrid human–machine crowdsourcing
+architecture and a five‑stage “Penta‑Process” to capture, refine, and validate citizen
+knowledge for complex civic problems, illustrated with a healthcare guideline use case in
+smart‑city settings. It defines layered components for sensing, task generation,
+recommendation, and aggregation to produce “democratic knowledge spaces” that
+optimize task workflows and inform policy and service decisions.
 
 
 
-# [2] Title: A CROWDSOURCED COMPLAINT RESOLUTION SYSTEM USING GEOTAGGING AND SOCIAL MEDIA ENGAGEMENT
+# 2 Title: A CROWDSOURCED COMPLAINT RESOLUTION SYSTEM USING GEOTAGGING AND SOCIAL MEDIA ENGAGEMENT
 
 Summarized abstract: The paper introduces Civic Alerts, a Flutter‑based platform where
 citizens submit GPS‑tagged images of road issues, generating trackable tickets and
@@ -20,7 +20,7 @@ updates, thresholded escalation, and an admin dashboard.
 
 
 
-# [3] Title: Artificial intelligence and IoT driven system architecture for municipality waste management in smart cities: A review
+# 3 Title: Artificial intelligence and IoT driven system architecture for municipality waste management in smart cities: A review
 
 Summarized abstract: This review surveys AI/IoT approaches to municipal solid waste and
 proposes a sensor‑driven, NodeMCU‑based architecture that monitors bin fill levels, triggers
@@ -30,7 +30,7 @@ limitations and future enhancements like LoRaWAN, blockchain, and edge computing
 
 
 
-# [4] Title: FixMyStreet Brussels: Socio-Demographic Inequality in Crowdsourced Civic Participation
+# 4 Title: FixMyStreet Brussels: Socio-Demographic Inequality in Crowdsourced Civic Participation
 
 Summarized abstract: Using 30,041 reports 2013–2015, official statistics, and geotagged
 Twitter data, the study finds significant participation gaps on FixMyStreet across Brussels
@@ -40,17 +40,18 @@ inclusivity, alternative data collection, and UI adjustments to broaden particip
 
 
 
-# [5] Title: CivicFix: Smart Complaint Routing for Urban Solutions
+# 5 Title: CivicFix: Smart Complaint Routing for Urban Solutions
 
 Summarized abstract: CivicFix is a cloud‑based complaint system where users upload issue
-photos; ML classifies them into categories like potholes or garbage and auto‑routes cases to
-the relevant departments with role‑specific dashboards. Leveraging ReactJS,
-Node/Firebase, Google Maps, and OCR, it aims to streamline intake, tracking, and resolution
+photos; ML classifies them into categories like potholes or garbage and auto‑routes cases to the relevant departments 
+with role‑specific dashboards. 
+Leveraging ReactJS, Node/Firebase, Google Maps, and OCR,
+it aims to streamline intake, tracking, and resolution
 at scale with AI‑assisted triage and transparent status updates.
 
 
 
-# [6] Title: Smart Civic Issue Reporting System
+# 6 Title: Smart Civic Issue Reporting System
 
 Summarized abstract: The work presents an Android complaint app that captures photos
 and GPS, then prioritizes cases via a hybrid CNN‑RNN for image severity and SVM‑based
@@ -59,7 +60,7 @@ to accelerate reporting, ranking, routing, and feedback for urban infrastructure
 
 
 
-# [7] Title: Urban Crowdsourcing Platforms across the World: A Systematic Review
+# 7 Title: Urban Crowdsourcing Platforms across the World: A Systematic Review
 
 Summarized abstract: Following PRISMA, the review catalogs 32 data‑gathering urban
 crowdsourcing platforms by purpose, geography, and data openness, noting a

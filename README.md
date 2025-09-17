@@ -1,5 +1,5 @@
 
-# [1] Title: Modelling Civic Problem-Solving in Smart City Using Knowledge-Based Crowdsourcing 
+1. Title: Modelling Civic Problem-Solving in Smart City Using Knowledge-Based Crowdsourcing 
 
 Summarized abstract: The paper proposes a hybrid human–machine crowdsourcing
 architecture and a five‑stage “Penta‑Process” to capture, refine, and validate citizen
